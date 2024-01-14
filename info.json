@@ -1,0 +1,10 @@
+{
+    "name": "inserter-hints",
+    "version": "0.0.1",
+    "title": "Hints for inserters",
+    "author": "Alexander Izmailov",
+    "homepage": "https://github.com/yarolig/inserter-hints",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Some big mods for Factorio (such as Space Exploration or Nullius) add complex recipes that have byproducts. To take different products out of assemblers you may use filter inserters.\n\nThis mod will help you setting up these filters by suggesting items in inserter UI. Suggested items are just products of the connected assembler. The mod also useful when setting up logistic network conditions for inserter.\n\nThe mod works for various inserters and loaders.\nSupport for containters, splitters and belts might be added in future."
+  }
